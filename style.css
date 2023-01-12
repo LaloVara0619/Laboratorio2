@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(181, 184, 185);
+    width: 720px;
+    margin: 0 auto;
+    border-style: dotted;
+    }
+    
+h1 {
+    color: navy;
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: center;
+    background: rgba(63, 58, 110, 0.377); 
+    border: 2px solid rgb(12, 3, 46);
+    padding: 10px;
+    margin: 10px;
+    font-style: italic;
+
+    }
+
+h2 {
+        color: rgb(4, 78, 107);
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: left;
+        }
+
+.ubi {
+        color: black;
+        margin-left: 20px;
+        text-align: center;
+       }
+
+.num {
+        color: black;
+        margin-left: 20px;
+        text-align: center;
+       }   
+       
+.names {
+        color: rgb(14, 7, 112);
+        margin-left: 20px;
+        text-align: justify;
+        height: auto;
+       } 
+
+p {
+        color: black;
+        margin-left: 20px;
+        margin-right: 20px;
+        text-align: justify;
+        }
+li {
+    column-count: auto;
+    column-rule: 0pc;
+    color: black;
+}
